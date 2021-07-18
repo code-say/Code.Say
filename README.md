@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-say
+- 👋 Hi, I’m @sayanmcse
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning NLP 
 - 💞️ I’m looking to collaborate on ...
