@@ -1,4 +1,4 @@
-### Hi there, I'm Sayan - aka [CodeSay]👋
+### Hi there, I'm Sayan Mandal- aka [CodeSay]👋
 
 ## I'm a Student, Fresher, Developer, learner!!
 
