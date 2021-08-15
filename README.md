@@ -27,7 +27,7 @@
 
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-say&layout=compact)](https://github.com/code-say/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-say&layout=compact&theme=radical)](https://github.com/code-say/github-readme-stats)
 
 
 <br></br>
