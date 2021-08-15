@@ -28,7 +28,8 @@
 <br></br>
 
 
-[![sayan's aka codesay GitHub stats](https://github-readme-stats.vercel.app/api?username=code-say)](https://github.com/code-say/github-readme-stats)
+![sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-say&show_icons=true&theme=radical)
+
 
 
 <!---
