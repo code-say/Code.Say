@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning React , React Native 
 - 👯 I’m looking for Developer Job
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I ❤️ Video Games
 
 
 ### Languages and Tools:
