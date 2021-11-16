@@ -1,4 +1,7 @@
-### Hi there, I'm Sayan Mandal👋
+[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
+[<img align="right" src="https://img.shields.io/github/followers/mridul2820?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
+
+## Hi there, I'm Sayan Mandal👋
 
 ## I'm a Student, Fresher, Developer, learner!!
 
