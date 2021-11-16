@@ -1,5 +1,3 @@
-[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=code-say.code-say" />][myprofile]
-[<img align="right" src="https://img.shields.io/github/followers/mridul2820?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
 ## Hi there, I'm Sayan Mandal👋
 
