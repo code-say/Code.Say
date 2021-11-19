@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning React , React Native 
-- 👯 I’m looking for Developer Job
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
