@@ -27,7 +27,7 @@
 
 <br />
 
-Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India, currently, Freelancer 👨🏽‍💻 . Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India 👨🏽‍💻. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
