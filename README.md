@@ -29,7 +29,7 @@
 
 Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India 👨🏽‍💻. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611ee11948628e957f30ffaa350810cc961e9b4ec6e&rid=giphy.gif&ct=g" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611db37c6770f1c8dd5075b4caa7dbcba36f28f9587&rid=giphy.gif&ct=g" />
   
 **Talking about Personal Stuffs:**
 
