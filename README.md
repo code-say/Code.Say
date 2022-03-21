@@ -29,7 +29,7 @@
 
 Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India 👨🏽‍💻. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" />
   
 **Talking about Personal Stuffs:**
 
