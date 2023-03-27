@@ -33,11 +33,11 @@ Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India 👨🏽‍💻. Be
   
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning something cool 😉
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sayancse@hotmail.com;
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 **Languages and Tools:**  
 
