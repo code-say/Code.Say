@@ -2,7 +2,7 @@
 
 <!--
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning something cool 😉
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sayancse@hotmail.com;
