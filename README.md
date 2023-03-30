@@ -2,7 +2,7 @@
 
 <!--
 
-- 🔭 I’m currently working on ![image](https://user-images.githubusercontent.com/78550096/228728000-8b0189ed-7882-4694-aecb-747ab2acc132.png)
+- 🔭 I’m currently working on![image](https://user-images.githubusercontent.com/78550096/228728000-8b0189ed-7882-4694-aecb-747ab2acc132.png)
 - 🌱 I’m currently learning something cool 😉
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sayancse@hotmail.com;
