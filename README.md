@@ -2,7 +2,7 @@
 
 <!--
 
-- 🔭 I’m currently working on https://ih0.redbubble.net/image.673783073.3249/st%2Csmall%2C215x235-pad%2C210x230%2Cf8f8f8.u1.jpg
+- 🔭 I’m currently working on SHot dog
 - 🌱 I’m currently learning something cool 😉
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sayancse@hotmail.com;
