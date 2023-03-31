@@ -2,7 +2,7 @@
 
 <!--
 
-- 🔭 I’m currently working on S Hot dog
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning something cool 😉
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sayancse@hotmail.com;
