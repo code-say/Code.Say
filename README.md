@@ -6,8 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey 👋🏽, I'm [Sayan Mandal]
-(https://www.linkedin.com/in/sayanmcse/)
+### Hey 👋🏽, I'm [Sayan Mandal](https://www.linkedin.com/in/sayanmcse/)
 
 <br/>
 
@@ -25,7 +24,7 @@
 
 <br />
 
-Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India 👨🏽‍💻. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India 👨🏽‍💻. Beside's programming, I enjoy traveling.
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI0ZGI3NmEyODA2NjJhZDNjMmYyYTgyYzdhZTM1N2FiMWQ2NWFmOCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" />
   
