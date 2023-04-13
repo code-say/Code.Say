@@ -6,7 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Hey 👋🏽, I'm [Sayan Mandal](https://www.linkedin.com/in/sayanmcse/)
+
 
 <br/>
 
